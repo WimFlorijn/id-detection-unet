@@ -1,0 +1,6 @@
+tensorflow
+segmentation_models
+opencv-python
+numpy
+matplotlib
+albumentations
